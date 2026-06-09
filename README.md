@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ganesu Jaswant 👋
 
-<!--
-**jaswantganesu/jaswantganesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Machine Learning (AIML)
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- Data Structures & Algorithms (DSA)
+- Machine Learning
+- Deep Learning
+  
+## Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- C Programming
+- SQL
+- Git & GitHub
+- VS Code
+
+## Goals
+- Build Real-World AI/ML Projects
+- Gain Internship Experience
+- Pursue MS in the USA
+
+🚀 Learning and building one step at a time.
